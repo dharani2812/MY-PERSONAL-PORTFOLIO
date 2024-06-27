@@ -1,4 +1,4 @@
-Darani Dharan's Personal Portfolio
+Dharani Dharan's Personal Portfolio
 
 Welcome to my personal portfolio! I'm Dharani Dhan D, a passionate Front End Developer with experience in building responsive and interactive web applications. This portfolio showcases some of my projects and skills in web development.
 
