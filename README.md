@@ -24,5 +24,5 @@ Feel free to reach out to me for any inquiries or collaboration opportunities!
 
 Email: dharanidharan28122004@gmail.com
 LinkedIn: (https://www.linkedin.com/in/dharani-dharan-134b702a1/)
-Portfolio Website: 
+Portfolio Website: https://dharani2812.github.io/MY-PERSONAL-PORTFOLIO/
 Thank you for visiting my portfolio!
